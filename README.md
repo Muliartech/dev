@@ -2,7 +2,7 @@
 
 A modern, terminal-inspired landing page for Base's development platform built with Next.js.
 
-## Features
+## Features and functions
 
 - Terminal-inspired interface with a copyable npm command
 - Interactive command palette (⌘/Ctrl + i) showcasing Base products:
